@@ -1,0 +1,48 @@
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe.config
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.pdb
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form1.resources
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form2.resources
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form3.resources
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form4.resources
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Properties.Resources.resources
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csproj.GenerateResource.Cache
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.exe
+C:\Users\merve\Desktop\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.pdb
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe.config
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.exe
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.pdb
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.pdb
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csprojResolveAssemblyReference.cache
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form1.resources
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form2.resources
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form3.resources
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form4.resources
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Properties.Resources.resources
+C:\Users\merve\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe.config
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.exe
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.pdb
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.pdb
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form1.resources
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form2.resources
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form3.resources
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form4.resources
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Properties.Resources.resources
+C:\Users\User\Desktop\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe.config
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.exe
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.pdb
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form1.resources
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form2.resources
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form3.resources
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Form4.resources
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21_12.Properties.Resources.resources
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\obj\Debug\Ödev21-12.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.exe
+C:\Users\User\Desktop\Nesne Ödev\Ödev23-12\Ödev21-12\Ödev21-12\bin\Debug\Ödev21-12.pdb
