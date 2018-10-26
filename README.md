@@ -8,13 +8,13 @@ mevcut ürün sayısını ve yapılan satışların toplam tutarını görüntü
 ### *Ekranlar*
 
 ###### *Giris Ekranı*
-![Giris Ekranı]()
+![Giris Ekranı](https://github.com/FatmaKaya/superMarket-Otomasyonu/blob/master/images/giris.jpg)
 
 ###### *Seçim Ekranı*
-![Seçim Ekranı]()
+![Seçim Ekranı](https://github.com/FatmaKaya/superMarket-Otomasyonu/blob/master/images/secim_ekrani.jpg)
 
 ###### *Satış İşlem Ekranı*
-![Satış İşlem Ekranı]()
+![Satış İşlem Ekranı](https://github.com/FatmaKaya/superMarket-Otomasyonu/blob/master/images/satis_islem_ekrani.jpg)
 
 ###### *Bilgi Fişi*
 ![Bilgi Fişi]()
